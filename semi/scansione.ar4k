@@ -1,0 +1,12 @@
+{
+"etichetta":"Sistemi di scansione",
+"descrizione":"Scansioni di rete e dei vasi",
+"versione":"0.1",
+"icona":"fa-heartbeat",
+"stato":"attivato",
+"caricaInBootstrap":true,
+"dipendenze":[],
+"funzionalita":["bootstrap","scansione"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-heart"}]
+}

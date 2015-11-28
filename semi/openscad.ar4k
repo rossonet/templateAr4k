@@ -1,0 +1,11 @@
+{
+"etichetta":"Editor 3D",
+"descrizione":"Interfaccia web per manipolazione oggetti in 3D OpenJScad",
+"versione":"0.1",
+"icona":"fa-cube",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["3D","OpenJScad"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-connectdevelop"}]
+}

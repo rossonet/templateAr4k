@@ -1,0 +1,11 @@
+{
+"etichetta":"Agente Ar4k",
+"descrizione":"Gestisci un altra interfaccia Agente Sr4k",
+"versione":"0.1",
+"icona":"fa-diamond",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["agenteAr4k","rossonet"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-laptop"}]
+}

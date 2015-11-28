@@ -1,0 +1,11 @@
+{
+"etichetta":"Interfaccia web StrongLoop",
+"descrizione":"Gestione interfaccia web realizzata con StrongLoop/AngularJS/BootStrap",
+"versione":"0.1",
+"icona":"fa-code",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["StrongLoop","web interface"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-laptop"}]
+}

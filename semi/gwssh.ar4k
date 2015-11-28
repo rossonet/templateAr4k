@@ -1,0 +1,11 @@
+{
+"etichetta":"GW SSH 443",
+"descrizione":"Gateway SSH su porta 443 per uso con proxy http",
+"versione":"0.1",
+"icona":"fa-life-ring",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["network","gw-ssh"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-magic"}]
+}

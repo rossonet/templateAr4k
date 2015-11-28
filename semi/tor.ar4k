@@ -1,0 +1,11 @@
+{
+"etichetta":"Tor",
+"descrizione":"Gateway verso rete Onion",
+"versione":"0.1",
+"icona":"fa-user-secret",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["tor","network"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-magnet"}]
+}

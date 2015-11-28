@@ -1,0 +1,11 @@
+{
+"etichetta":"Storage provider esterni",
+"descrizione":"Gestione storage esterno su AWS,Azure,RackSpace",
+"versione":"0.1",
+"icona":"fa-table",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["storage","AWS","Azure","RackSpace"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-sign-in"}]
+}

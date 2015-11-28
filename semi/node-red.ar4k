@@ -1,0 +1,11 @@
+{
+"etichetta":"Node Red",
+"descrizione":"Gestore di code messaggi Node Red basato su Node.js",
+"versione":"0.1",
+"icona":"fa-ticket",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["node-red","node"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-check"}]
+}

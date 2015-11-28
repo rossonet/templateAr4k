@@ -1,0 +1,11 @@
+{
+"etichetta":"GW USB",
+"descrizione":"Gestione dispositivi USB connessi ai vasi",
+"versione":"0.1",
+"icona":"fa-link",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["usb2ar4k","usb"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-at"}]
+}

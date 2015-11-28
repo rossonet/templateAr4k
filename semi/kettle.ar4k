@@ -1,0 +1,11 @@
+{
+"etichetta":"Kettle",
+"descrizione":"Sistema di elaborazione dati Pentaho Data Integration (Kettle)",
+"versione":"0.1",
+"icona":"fa-share-alt",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["kettle"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-ellipsis-h"}]
+}

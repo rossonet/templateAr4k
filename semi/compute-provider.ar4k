@@ -1,0 +1,11 @@
+{
+"etichetta":"Compute provider esterni",
+"descrizione":"Gestione provider di calcolo esterno su AWS,Azure,RackSpace",
+"versione":"0.1",
+"icona":"fa-cloud",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["compute","AWS","Azure","RackSpace"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-sign-in"}]
+}

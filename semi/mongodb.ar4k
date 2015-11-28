@@ -1,0 +1,11 @@
+{
+"etichetta":"MongoDB",
+"descrizione":"Database noSQL MongoDB",
+"versione":"0.1",
+"icona":"fa-database",
+"stato":"attivato",
+"dipendenze":[],
+"funzionalita":["MongoDB","database"],
+"metodi":[{"etichetta":"Scansione vasi","riferimento":"ScansioneVaso.bar"},{"etichetta":"Scansione sicurezza rete","riferimento":"ScansioneSicurezzaDaVaso.bar"}],
+"stati":[{"etichetta":"attivato","icona":"fa-wrench"}]
+}
